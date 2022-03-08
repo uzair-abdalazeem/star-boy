@@ -377,6 +377,12 @@ nav::before {
 .about-con .img img {
   width: 250px;
 }
+@media (max-width:768px) {
+.about-con .img img {
+    margin:30px 0px 0px;
+  }
+  
+}
 
 .about-con .img::before {
   content: "";
@@ -447,6 +453,7 @@ nav::before {
 
 .about-info hr {
   border: 1px solid var(--main-color);
+  background-color:var(--main-color);
   width: 300px;
 }
 
