@@ -445,10 +445,12 @@ nav::before {
 @media (max-width:768px) {
   .about-info h3 {
   padding: 0px 15px 25px;
+  text-align: center;
   }
   .about-info p {
-    padding: 25px 15px 0px;
-    }
+   padding: 25px 15px 0px;
+   text-align: center;
+  }
 }
 
 .about-info hr {
