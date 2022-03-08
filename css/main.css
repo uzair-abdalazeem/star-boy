@@ -459,6 +459,12 @@ nav::before {
   width: 300px;
 }
 
+@media (max-width:768px) {
+  .about-info hr {
+   text-align: center ;
+   Width: 150px;
+   }
+}
 /* End about */
 
 /* Contact*/
