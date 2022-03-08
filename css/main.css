@@ -461,7 +461,7 @@ nav::before {
 
 @media (max-width:768px) {
   .about-info hr {
-   text-align: center ;
+   padding: 0px 0px 0px 40px;
    Width: 150px;
    }
 }
