@@ -451,20 +451,18 @@ nav::before {
    padding: 25px 15px 0px;
    text-align: center;
   }
+  .about-info hr {
+   text-align: center;
+  }
 }
 
 .about-info hr {
   border: 1px solid var(--main-color);
   background-color:var(--main-color);
-  width: 300px;
+  width: 50%; 
+  display: inline-block;
 }
 
-@media (max-width:768px) {
-  .about-info hr {
-   padding: 0px 0px 0px 40px;
-   Width: 150px;
-   }
-}
 /* End about */
 
 /* Contact*/
