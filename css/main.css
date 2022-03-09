@@ -326,10 +326,6 @@ nav::before {
     background-color: white;
     height: 100%;
 }
-.card:hover {
-  border-bottom: 2px solid var(--main-color);
-  transition: none;
-}
 
 .card img {
     max-width: 100%;
@@ -452,7 +448,7 @@ nav::before {
    text-align: center;
   }
   .about-info hr {
-   text-align: center;
+   margin-left:25%;
   }
 }
 
