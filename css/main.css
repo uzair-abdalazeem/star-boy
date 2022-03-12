@@ -124,7 +124,7 @@ nav::before {
 
 .header ul li a:hover{
     color: var(--main-color);
-    transform: translateX(10px);
+    transform: translateX(25px);
 }
 
 .menu-icon {
